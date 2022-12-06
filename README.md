@@ -23,7 +23,7 @@ Apache Airflow is an open-source platform for developing, scheduling, and monito
 
 docker run -dit -p 8000:80 --name airflow ubuntu
 
-***Get into docker container terminal*** -*** If using Docker (optional)
+***Get into docker container terminal*** - If using Docker (optional)
 
 docker exec -it "container\_id" /bin/bash
 
@@ -119,4 +119,4 @@ Username: admin
 
 Password: admin
 
-Running successfully...
+# Running successfully...
