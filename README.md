@@ -11,8 +11,6 @@ About
 
 Apache Airflow is an open-source platform for developing, scheduling,
 and monitoring batch-oriented workflows.
-![](media/image2.png){width="2.6763090551181103in"
-height="3.0468755468066493in"}
 
 Key Terms
 =========
