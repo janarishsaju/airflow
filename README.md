@@ -1,4 +1,4 @@
-﻿**Janarish Saju C**
+***Janarish Saju C***
 
 AI/ML Engineer
 
@@ -10,10 +10,7 @@ Apache Airflow is an open-source platform for developing, scheduling, and monito
 
 # Key Terms
 
-- ETL pipelines that extract data from multiple 
-
-`              `sources
-
+- ETL pipelines that extract data from multiple sources
 - DAG Representation
 - Workflow Management
 - Job Scheduling
