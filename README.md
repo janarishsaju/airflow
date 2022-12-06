@@ -11,7 +11,7 @@ About
 
 Apache Airflow is an open-source platform for developing, scheduling,
 and monitoring batch-oriented workflows.
-![](media/image1.png){width="2.6763090551181103in"
+![](media/image2.png){width="2.6763090551181103in"
 height="3.0468755468066493in"}
 
 Key Terms
@@ -134,4 +134,11 @@ Username: admin
 
 Password: admin
 
-Running successfully...
+Running successfully…
+
+References
+==========
+
+[*https://docs.google.com/document/d/1VJ-yeLhquBOPuPTJ3fE0R2y4ASz77tcJk8zhUbvB4GE/edit*](https://docs.google.com/document/d/1VJ-yeLhquBOPuPTJ3fE0R2y4ASz77tcJk8zhUbvB4GE/edit)
+
+[*https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b*](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b)
