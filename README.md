@@ -15,9 +15,7 @@ and monitoring batch-oriented workflows.
 Key Terms
 =========
 
--   ETL pipelines that extract data from multiple
-
-> sources
+-   ETL pipelines that extract data from multiple sources
 
 -   DAG Representation
 
